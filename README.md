@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sparksMT
 - 👀 I’m interested in... Industrial Innovation, Automation, and SCADA controls.
-- 🌱 I’m currently... learning NodeJS, JavaScript, and Bash.
+- 🌱 I’m currently... learning NodeJS, JavaScript, and Python.
 - 💞️ I’m looking to... collaborate on world domination.
 - 📫 How to reach me... Starlink to Mars, please.
 
